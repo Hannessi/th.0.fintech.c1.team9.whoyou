@@ -1,3 +1,5 @@
 .idea/
 backend/assembly/config.json
 backend/build/docker/build.tar
+frontEnd/node_modules/
+frontEnd/build/
